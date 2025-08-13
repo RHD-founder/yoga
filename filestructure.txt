@@ -1,0 +1,43 @@
+|-- .gitignore
+|-- app
+    |-- globals.css
+    |-- layout.tsx
+    |-- page.tsx
+|-- components
+    |-- sections
+        |-- AboutSection.tsx
+        |-- ClassesSection.tsx
+        |-- FooterSection.tsx
+        |-- HeroSection.tsx
+        |-- InstructorSection.tsx
+        |-- Navigation.tsx
+        |-- PricingSection.tsx
+        |-- ServicesSection.tsx
+    |-- SplashScreen.tsx
+    |-- WhatsAppButton.tsx
+|-- eslint.config.js
+|-- next-env.d.ts
+|-- next.config.mjs
+|-- package-lock.json
+|-- package.json
+|-- pages
+    |-- Blog.tsx
+    |-- Contact.tsx
+    |-- Gallery.tsx
+    |-- Home.tsx
+    |-- Instructors.tsx
+    |-- Membership.tsx
+    |-- not-used-readme.md
+|-- postcss.config.js
+|-- public
+    |-- filler4-img-01.jpg
+    |-- filler4-img-02.jpg
+    |-- img.png
+|-- README.md
+|-- tailwind.config.js
+|-- tsconfig.app.json
+|-- tsconfig.json
+|-- tsconfig.node.json
+|-- types
+    |-- index.ts
+|-- vite-env.d.ts
